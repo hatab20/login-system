@@ -1,0 +1,23 @@
+.item h1 {
+  color: rgb(47, 225, 231);
+  margin-bottom: 30px;
+}
+
+.card-text {
+  color: rgb(47, 225, 231);
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
+}
+.card-body .card-text a:hover {
+  text-decoration: underline;
+}
+.container {
+  box-shadow: 0 0 60px 3px;
+  margin-top: 100px;
+}
+body {
+    background-color: #24353F;
+  }

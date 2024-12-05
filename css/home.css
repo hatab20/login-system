@@ -1,0 +1,17 @@
+.card-header {
+  background-color: #24353F;
+  box-shadow: 0 0 60px 3px;
+}
+.card {
+  background-color: #24353F;
+}
+.card-title {
+  padding: 30px 50px 30px 50px;
+  color: rgb(47, 225, 231);
+}
+.navbar {
+  padding: 10px 200px 10px 200px;
+  a {
+    color: rgb(47, 225, 231);
+  }
+}
